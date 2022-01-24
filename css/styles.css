@@ -11844,21 +11844,21 @@ header.masthead .masthead-heading {
     margin-bottom: 4rem;
   }
 }
-#portfolio .portfolio-item,
+#bots .portfolio-item,
 #allbots .support-item,
 #support .support-item {
   max-width: 26rem;
   margin-left: auto;
   margin-right: auto;
 }
-#portfolio .portfolio-item .portfolio-link,
+#bots .portfolio-item .portfolio-link,
 #allbots .portfolio-item .portfolio-link,
 #support .support-item .support-link {
   position: relative;
   display: block;
   margin: 0 auto;
 }
-#portfolio .portfolio-item .portfolio-link .portfolio-hover,
+#bots .portfolio-item .portfolio-link .portfolio-hover,
 #allbots .portfolio-item .portfolio-link .portfolio-hover,
 #support .support-item .support-link .support-hover {
   display: flex;
@@ -11871,11 +11871,7 @@ header.masthead .masthead-heading {
   opacity: 0;
   transition: opacity ease-in-out 0.25s;
 }
-#portfolio
-  .portfolio-item
-  .portfolio-link
-  .portfolio-hover
-  .portfolio-hover-content,
+#bots .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content,
 #allbots
   .portfolio-item
   .portfolio-link
@@ -11885,19 +11881,19 @@ header.masthead .masthead-heading {
   font-size: 1.25rem;
   color: white;
 }
-#portfolio .portfolio-item .portfolio-link:hover .portfolio-hover,
+#bots .portfolio-item .portfolio-link:hover .portfolio-hover,
 #allbots .portfolio-item .portfolio-link:hover .portfolio-hover,
 #support .support-item .support-link:hover .support-hover {
   opacity: 1;
 }
-#portfolio .portfolio-item .portfolio-caption,
+#bots .portfolio-item .portfolio-caption,
 #allbots .portfolio-item .portfolio-caption,
 #support .support-item .support-caption {
   padding: 1.5rem;
   text-align: center;
   background-color: #fff;
 }
-#portfolio .portfolio-item .portfolio-caption .portfolio-caption-heading,
+#bots .portfolio-item .portfolio-caption .portfolio-caption-heading,
 #allbots .portfolio-item .portfolio-caption .portfolio-caption-heading,
 #support .support-item .support-caption .support-caption-heading {
   font-size: 1.5rem;
@@ -11907,7 +11903,7 @@ header.masthead .masthead-heading {
   font-weight: 700;
   margin-bottom: 0;
 }
-#portfolio .portfolio-item .portfolio-caption .portfolio-caption-subheading,
+#bots .portfolio-item .portfolio-caption .portfolio-caption-subheading,
 #allbots .portfolio-item .portfolio-caption .portfolio-caption-subheading,
 #support .support-item .support-caption .support-caption-subheading {
   font-style: italic;
