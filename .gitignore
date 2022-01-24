@@ -1,0 +1,9 @@
+# PyCharm project settings
+.idea/
+
+# VScode project settings
+.vscode/
+
+# Others
+.gitattributes
+__pycache__/
