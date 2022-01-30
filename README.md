@@ -9,11 +9,6 @@ We've created this website to make it possible for telegram users to find out in
 I'm a full stack developer known for creating wonderful things for people like you.
 
 
-## Website Link
-
-Starkweb is currently hosted at - https://me.pystark.codes/
-
-
 ## FAQ
 
 #### Is this project open source?
